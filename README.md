@@ -5,11 +5,14 @@ Jingwen Sun, Zhiyi Tian, Yu He, Jingwei Sun, and Guangzhong Sun
 
 University of Science and Technology of China (USTC)
 
-[![OpenReview](https://img.shields.io/badge/OpenReview-Paper-blue.svg)](https://openreview.net/forum?id=K6aGniOrFM)
 
 <p align="center">
   <img src="./figs/GET.svg" alt="image" style="width:1000px;">
 </p>
+
+## News
+- **02.16.2025** Full code has been initially released.
+- **05.16.2025** Paper has been accepted to the main conference of ACL 2025.
 
 
 ## Getting Started
