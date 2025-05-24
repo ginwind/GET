@@ -1,6 +1,8 @@
 # Introducing Graph Context into Language Models through Parameter-Efficient Fine-Tuning for Lexical Relation Mining
 Efficiently tuning language models using an inherent knowledge graph for lexical relation mining tasks.
 
+Jingwen Sun, Zhiyi Tian, Yu He, Jingwei Sun, and Guangzhong Sun
+
 University of Science and Technology of China (USTC)
 
 [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-blue.svg)](https://openreview.net/forum?id=K6aGniOrFM)
