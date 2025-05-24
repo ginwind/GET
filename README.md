@@ -6,7 +6,7 @@ University of Science and Technology of China (USTC)
 [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-blue.svg)](https://openreview.net/forum?id=K6aGniOrFM)
 
 <p align="center">
-  <img src="./figs/GET.png" alt="image" style="width:1000px;">
+  <img src="./figs/GET.svg" alt="image" style="width:1000px;">
 </p>
 
 
